@@ -6,5 +6,11 @@ public class Repas{
 	 this.numero = numero ;
 	 this.date = date ;
 	}
+	public int getNumero(){
+		return numero ;
+	}
+	public void setNumero(int Numero){
+		this.numero = numero ;
+	}
 }
 
